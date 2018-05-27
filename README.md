@@ -9,6 +9,7 @@ Awesome Resource for ML and Deep Learning
 1) Tf-idf = http://www.tfidf.com/
 2) LSTM in Keras = https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 3) BLEU Score = https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
+4) Sentence similarity using wordnet = https://nlpforhackers.io/wordnet-sentence-similarity/
 
 
 # Deep Learning
@@ -22,3 +23,4 @@ Awesome Resource for ML and Deep Learning
 # Kaggle Discussions 
 1) https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/
 2) https://www.kaggle.com/c/quora-question-pairs/discussion/31179
+3) https://www.linkedin.com/pulse/duplicate-quora-question-abhishek-thakur/
