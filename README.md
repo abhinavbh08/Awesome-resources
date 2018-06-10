@@ -18,7 +18,7 @@ Awesome Resource for ML and Deep Learning
 3) Deep Learning Andrew Ng from ground up -: https://www.deeplearning.ai/
 4) Cyclical learning Rate -: http://teleported.in/posts/cyclic-learning-rate/
 5) Differential Learning Rates -: https://towardsdatascience.com/transfer-learning-using-differential-learning-rates-638455797f00
-
+6) https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
 
 # Kaggle Discussions 
 1) https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/
