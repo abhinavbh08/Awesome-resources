@@ -3,6 +3,8 @@ Awesome Resource for ML and Deep Learning
 
 # Machine Learning
 1) http://www.fast.ai/2017/11/13/validation-sets/
+Calibration of Machine Learning Model.
+2) https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf
 
 
 # NLP
