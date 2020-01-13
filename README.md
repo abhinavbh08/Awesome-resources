@@ -14,7 +14,7 @@ Calibration of Machine Learning Model.
 3) BLEU Score = https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
 4) Sentence similarity using wordnet = https://nlpforhackers.io/wordnet-sentence-similarity/
 5) https://github.com/Smerity/keras_snli
-
+6)https://github.com/salesforce/pytorch-qrnn/
 
 # Deep Learning
 1) Learning_Rate - https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b?gi=7645cd50d98
