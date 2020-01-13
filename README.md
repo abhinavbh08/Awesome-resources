@@ -13,6 +13,7 @@ Calibration of Machine Learning Model.
 2) LSTM in Keras = https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 3) BLEU Score = https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
 4) Sentence similarity using wordnet = https://nlpforhackers.io/wordnet-sentence-similarity/
+5) https://github.com/Smerity/keras_snli
 
 
 # Deep Learning
