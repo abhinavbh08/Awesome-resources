@@ -28,3 +28,7 @@ Calibration of Machine Learning Model.
 1) https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/
 2) https://www.kaggle.com/c/quora-question-pairs/discussion/31179
 3) https://www.linkedin.com/pulse/duplicate-quora-question-abhishek-thakur/
+
+# System Design and Deployment
+1) https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7
+
