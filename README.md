@@ -31,4 +31,6 @@ Calibration of Machine Learning Model.
 
 # System Design and Deployment
 1) https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7
+2) https://github.com/EthicalML/awesome-production-machine-learning
+3) https://www.reddit.com/r/MachineLearning/comments/fvfeps/d_what_does_your_modern_mlinproduction/
 
