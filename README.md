@@ -2,6 +2,10 @@
 # Awesome-resources
 Awesome Resource for ML and Deep Learning
 
+# Notes of courses by other people.
+1) http://chrismaxwell.com/ai
+
+
 # Machine Learning
 1) http://www.fast.ai/2017/11/13/validation-sets/
 Calibration of Machine Learning Model.
