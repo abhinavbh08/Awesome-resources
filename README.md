@@ -19,6 +19,8 @@ Calibration of Machine Learning Model.
 4) Sentence similarity using wordnet = https://nlpforhackers.io/wordnet-sentence-similarity/
 5) https://github.com/Smerity/keras_snli
 6)https://github.com/salesforce/pytorch-qrnn/
+7) Zero shot learning in moern NLP - https://joeddav.github.io/blog/2020/05/29/ZSL.html
+
 
 # Deep Learning
 1) Learning_Rate - https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b?gi=7645cd50d98
