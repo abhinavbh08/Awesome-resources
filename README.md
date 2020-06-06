@@ -42,4 +42,4 @@ Calibration of Machine Learning Model.
 
 #Books
 1) Think stats -: http://greenteapress.com/thinkstats2/thinkstats2.pdf
-
+2) https://www.thedatasciencehandbook.com/
