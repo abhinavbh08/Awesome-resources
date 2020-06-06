@@ -40,3 +40,6 @@ Calibration of Machine Learning Model.
 2) https://github.com/EthicalML/awesome-production-machine-learning
 3) https://www.reddit.com/r/MachineLearning/comments/fvfeps/d_what_does_your_modern_mlinproduction/
 
+#Books
+1) Think stats -: http://greenteapress.com/thinkstats2/thinkstats2.pdf
+
