@@ -39,6 +39,8 @@ Calibration of Machine Learning Model.
 1) https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7
 2) https://github.com/EthicalML/awesome-production-machine-learning
 3) https://www.reddit.com/r/MachineLearning/comments/fvfeps/d_what_does_your_modern_mlinproduction/
+4) https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
+5) https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b
 
 #Books
 1) Think stats -: http://greenteapress.com/thinkstats2/thinkstats2.pdf
