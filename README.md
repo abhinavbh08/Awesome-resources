@@ -20,6 +20,7 @@ Calibration of Machine Learning Model.
 5) https://github.com/Smerity/keras_snli
 6)https://github.com/salesforce/pytorch-qrnn/
 7) Zero shot learning in moern NLP - https://joeddav.github.io/blog/2020/05/29/ZSL.html
+8) Microsoft best practices for NLP - https://github.com/microsoft/nlp-recipes
 
 
 # Deep Learning
