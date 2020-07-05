@@ -46,3 +46,10 @@ Calibration of Machine Learning Model.
 #Books
 1) Think stats -: http://greenteapress.com/thinkstats2/thinkstats2.pdf
 2) https://www.thedatasciencehandbook.com/
+
+# Misc
+1) https://amitness.com/2020/06/google-colaboratory-tips/
+
+# Tensorflow/Keras
+1) https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+
