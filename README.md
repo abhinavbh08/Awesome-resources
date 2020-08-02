@@ -2,6 +2,9 @@
 # Awesome-resources
 Awesome Resource for ML and Deep Learning
 
+# Python
+1) https://runestone.academy/runestone/books/published/pythonds/index.html
+
 # Notes of courses by other people.
 1) http://chrismaxwell.com/ai
 
