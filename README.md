@@ -45,6 +45,7 @@ Calibration of Machine Learning Model.
 3) https://www.reddit.com/r/MachineLearning/comments/fvfeps/d_what_does_your_modern_mlinproduction/
 4) https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
 5) https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b
+6) ML system design -: https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8
 
 #Books
 1) Think stats -: http://greenteapress.com/thinkstats2/thinkstats2.pdf
